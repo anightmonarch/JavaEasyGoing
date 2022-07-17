@@ -5,8 +5,7 @@
         </a>
     </p>
     <p>
-        <a href="https://github.com/anightmonarch/JavaEasyGoing"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读" /></a>
-        <img src="https://img.shields.io/github/license/anightmonarch/JavaEasyGoing?color=yellow&logo=github" alt="license" />
+        <a href="https://anightmonarch.github.io/JavaEasyGoing/#/"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读" /></a>
         <img src="https://img.shields.io/github/stars/anightmonarch/JavaEasyGoing?color=informational&logo=github" alt="stars" />
         <img src="https://img.shields.io/github/forks/anightmonarch/JavaEasyGoing?color=informational&logo=github" alt="forks" />
         <img src="https://img.shields.io/github/issues/anightmonarch/JavaEasyGoing?color=blueviolet&logo=github" alt="issues" />
@@ -22,8 +21,12 @@
 </div>
 
 <hr>
-一起学编程，让生活更随和！如果你觉得是个同道中人，欢迎关注博主公众号：【随和的皮蛋桑】。
-<br>专注于Java基础、进阶、面试以及计算机基础知识分享🐳。偶尔认知思考、日常水文🐌。
+<p>
+    一起学编程，让生活更随和！如果你觉得是个同道中人，欢迎关注博主公众号：【随和的皮蛋桑】。
+    <br>
+    <br>
+    专注于Java基础、进阶、面试以及计算机基础知识分享🐳。偶尔认知思考、日常水文🐌。
+</p>
 <p>
     <img src="./media/pictures/trytosearch.png"/>
 </p>
