@@ -28,12 +28,28 @@
                 placeholder: '搜索',
                 noData: '找不到结果',
                 depth: 3, //搜索标题的最大层级 1-6
+            },
+            //统计字数
+            count: {
+                countable: true,
+                fontsize: '0.9em',
+                color: 'rgb(90,90,90)',
+                language: 'chinese'
             }
         }
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- 搜索框 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- 图片缩放 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- 复制到剪切板 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+    <!-- 统计字数 -->
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <!-- 支持java代码高亮显示 -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
 </body>
 
 </html>
